@@ -1,17 +1,8 @@
 # Martian Zoo
 
-This repository publishes static content with GitHub Pages.
+This repository previously published Martian Zoo images under the personal
+GitHub Pages site. The images now live in the separate
+[`MartianZoo/site`](https://github.com/MartianZoo/site) repository at
+https://www.martianzoo.dev/images/.
 
-The image collection is in [`images/classes`](images/classes/). After Pages is enabled for the `main` branch at the repository root, individual files are available at:
-
-`https://kevinb9n.github.io/martianzoo/images/classes/<filename>`
-
-The directory's `index.html` provides a list of the current files.
-
-The corrected-text card collection contains 547 transparent PNGs in [`images/classes-pubtext`](images/classes-pubtext/), with the same filenames, dimensions, and card positions as their counterparts in `images/classes`. Individual corrected-text cards are available at:
-
-`https://kevinb9n.github.io/martianzoo/images/classes-pubtext/<filename>`
-
-Its `index.html` lists all 547 cards.
-
-The Mars background is in [`images/other/mars.png`](images/other/mars.png).
+This repository retains a short page that points visitors to the new site.
